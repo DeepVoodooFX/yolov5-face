@@ -1,0 +1,9 @@
+opencv-python
+matplotlib
+pandas
+seaborn
+onnx
+thop
+requests
+tqdm
+pyyaml
